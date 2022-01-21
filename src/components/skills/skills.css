@@ -4,6 +4,8 @@
   margin-bottom: 100px;
   position: relative;
   margin-left: 160px;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
 }
 button {
   width: 150px;

@@ -124,6 +124,9 @@
       position: absolute;
       bottom: 10px;
       left: 40%;
+      @include mobile {
+        left: 43%;
+      }
 
       img {
         width: 30px;

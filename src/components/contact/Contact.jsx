@@ -30,7 +30,7 @@ function Contact({id,tem,user}) {
           <img src="assets/shake.svg" alt="" />
         </div>
         <div className="right">
-          <h2 className="con_text">Contact.</h2>
+          <h2 className="con_text">Contact Me</h2>
 
           <form onSubmit={handleSubmit} >
             <input type="email" placeholder="Email" name="from_email"/>
